@@ -42,8 +42,7 @@ BOOL ShowWindow(
 );
 
 ```
-and the `sub_140001226` function we will find it's  `SetWindowsHook` API it's called by another function 
-
+and the `sub_140001226` it’s just a wrapper for the function `sub_140003E90` function we will find it's called `SetWindowsHook` API
 [![3](/assets/images/CTF-WriteUp/Night-Walker/3.png)](/assets/images/CTF-WriteUp/Night-Walker/3.png) | [![4](/assets/images/CTF-WriteUp/Night-Walker/4.png)](/assets/images/CTF-WriteUp/Night-Walker/4.png)
 
 [![5](/assets/images/CTF-WriteUp/Night-Walker/5.png)](/assets/images/CTF-WriteUp/Night-Walker/5.png)
