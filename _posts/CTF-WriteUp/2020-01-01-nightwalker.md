@@ -196,5 +196,7 @@ for random_value in range(0x0, 0x78+1):
 ```
 The Flag is: flag{k3y_l0gg3r_n_st34lth_m0d3} 
 
+> Looking at the solution, you may find the topic is long and cumbersome, but this is just to clarify after the details. You could simply put the file on virustotal or use capa rules to know from the beginning that it is a keylogger instead of searching step by step, and when you know it is a keylogger and know how it works, you will just look at Imports section, extract the important functions and analyze them, and you will reach the desired easily 
+>
 
 Thanks for reading, Suggestions & Feedback are appreciated !
