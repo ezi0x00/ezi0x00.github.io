@@ -2,6 +2,8 @@
 main:
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
+  - title: "CTF-WriteUp"
+    url: /categories/#CTF-WriteUp  
   - title: "All Categories"
     url: /categories
 
