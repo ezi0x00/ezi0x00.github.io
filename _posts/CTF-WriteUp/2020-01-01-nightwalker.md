@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: /assets/images/CTF-WriteUp/Night-Walker/night.jpg
 ribbon: MidnightBlue
-description: "Night Walker is a reverse engineering hard challenge. From the Cyber ​​Talent platform, it is a keylogger used SetWindowsHook API to monitor low-level keyboard input events and used Crypto API`S to encrypt logs"
+description: "Night Walker is a reverse engineering hard challenge. From the Cyber ​​Talent platform, it is a keylogger used SetWindowsHook API to monitor low-level keyboard input events and used Crypto API`S to encrypt logs and flag"
 categories:
   - CTF-WriteUp
 toc: true
