@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Malware Analysis"
-    url: /categories/#malware-analysis
+  - title: "Malware-Analysis"
+    url: /categories/#Malware-Analysis
   - title: "CTF-WriteUp"
     url: /categories/#CTF-WriteUp  
   - title: "All Categories"
