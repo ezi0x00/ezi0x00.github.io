@@ -161,6 +161,8 @@ it's modifing the secret value with a random value, luckily the random value is 
 
 Now we can bruteforce the last two bytes of key and decrypt flag.
 
+# Solution :
+
 Script:
 
 ```
@@ -192,3 +194,7 @@ for random_value in range(0x0, 0x78+1):
         break     
    
 ```
+The Flag is: flag{k3y_l0gg3r_n_st34lth_m0d3} 
+
+
+Thanks for reading, Suggestions & Feedback are appreciated !
