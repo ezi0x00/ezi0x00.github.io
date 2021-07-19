@@ -193,9 +193,10 @@ it takes two arguments and saved first in `s1` and second in `v5`:
 
 
 ```c++
-if ( argc > 2 )    
+if ( argc > 2 ){    
     s1 = strdup(argv[1]);
     v5 = strdup(argv[2]);
+}
 ```
 
 and then pass the arguments to `check` function to check if it true or not and compare if s1 equal `4dminUser31337`: 
