@@ -407,7 +407,7 @@ flag:
 flag{th4ts_h0w_y0u_surv1v3_}
 ```
 
-# PE M0nSt3r: 
+# PE M0nSt3r - hard: 
 
 > Better recognize art, cause I don't forget names.  
 >
