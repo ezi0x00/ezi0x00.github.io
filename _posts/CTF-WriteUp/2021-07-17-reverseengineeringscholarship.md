@@ -207,7 +207,7 @@ if ( (unsigned int)check(s1, v5) != 1 || strcmp(s1, "4dminUser31337") ){
       puts("unrecognized user");
       exit(-1);
     }
-    printf("flag is: flag{%s}\n", v5);
+    printf("flag is: flag{s}\n", v5);
     result = 0;
   }
   else
