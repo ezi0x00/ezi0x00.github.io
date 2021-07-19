@@ -549,10 +549,12 @@ void decrypt(uint32_t v[2], const uint32_t k[4]) {
 
 int main()
 {
-    uint32_t enc_flag[8] = {{0x21C2FB7C, 0xC553E97B},
+    uint32_t enc_flag[8] = {
+      {0x21C2FB7C, 0xC553E97B},
       {0x9E893411, 0xFF5A7E60},
       {0xB12CA755, 0xA5D55898},
-      {0x8A08537A, 0x663511D1} };
+      {0x8A08537A, 0x663511D1}
+    };
     static uint32_t tea_key[4] = {0x34561234, 0x111F3423, 0x34D57910, 0x00989034 };
     for (int i = 0;i < 8;i += 2)
     {
